@@ -1,0 +1,12 @@
+C:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast.Contracts\bin\Debug\net7.0\FakeBreakfast.Contracts.deps.json
+C:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast.Contracts\bin\Debug\net7.0\FakeBreakfast.Contracts.dll
+C:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast.Contracts\bin\Debug\net7.0\FakeBreakfast.Contracts.pdb
+C:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast.Contracts\obj\Debug\net7.0\FakeBreakfast.Contracts.csproj.AssemblyReference.cache
+C:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast.Contracts\obj\Debug\net7.0\FakeBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast.Contracts\obj\Debug\net7.0\FakeBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast.Contracts\obj\Debug\net7.0\FakeBreakfast.Contracts.AssemblyInfo.cs
+C:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast.Contracts\obj\Debug\net7.0\FakeBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast.Contracts\obj\Debug\net7.0\FakeBreakfast.Contracts.dll
+C:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast.Contracts\obj\Debug\net7.0\refint\FakeBreakfast.Contracts.dll
+C:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast.Contracts\obj\Debug\net7.0\FakeBreakfast.Contracts.pdb
+C:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast.Contracts\obj\Debug\net7.0\ref\FakeBreakfast.Contracts.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FakeBreakfast/1.0.0": {
+        "dependencies": {
+          "FakeBreakfast.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "FakeBreakfast.dll": {}
+        }
+      },
+      "FakeBreakfast.Contracts/1.0.0": {
+        "runtime": {
+          "FakeBreakfast.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FakeBreakfast/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FakeBreakfast.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
