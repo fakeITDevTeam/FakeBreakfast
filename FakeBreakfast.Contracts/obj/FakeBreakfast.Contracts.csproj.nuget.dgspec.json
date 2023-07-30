@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Data\\source\\vscode\\aspnetcore\\FakeBreakfast\\FakeBreakfast.Contracts\\FakeBreakfast.Contracts.csproj": {}
+    "C:\\Data\\source\\vscode\\aspnetcore\\FakeBreakfast\\FakeBreakfast.Contracts\\FakeBreakfast.Contracts.csproj": {}
   },
   "projects": {
-    "c:\\Data\\source\\vscode\\aspnetcore\\FakeBreakfast\\FakeBreakfast.Contracts\\FakeBreakfast.Contracts.csproj": {
+    "C:\\Data\\source\\vscode\\aspnetcore\\FakeBreakfast\\FakeBreakfast.Contracts\\FakeBreakfast.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Data\\source\\vscode\\aspnetcore\\FakeBreakfast\\FakeBreakfast.Contracts\\FakeBreakfast.Contracts.csproj",
+        "projectUniqueName": "C:\\Data\\source\\vscode\\aspnetcore\\FakeBreakfast\\FakeBreakfast.Contracts\\FakeBreakfast.Contracts.csproj",
         "projectName": "FakeBreakfast.Contracts",
-        "projectPath": "c:\\Data\\source\\vscode\\aspnetcore\\FakeBreakfast\\FakeBreakfast.Contracts\\FakeBreakfast.Contracts.csproj",
+        "projectPath": "C:\\Data\\source\\vscode\\aspnetcore\\FakeBreakfast\\FakeBreakfast.Contracts\\FakeBreakfast.Contracts.csproj",
         "packagesPath": "C:\\Users\\emboss\\.nuget\\packages\\",
-        "outputPath": "c:\\Data\\source\\vscode\\aspnetcore\\FakeBreakfast\\FakeBreakfast.Contracts\\obj\\",
+        "outputPath": "C:\\Data\\source\\vscode\\aspnetcore\\FakeBreakfast\\FakeBreakfast.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",

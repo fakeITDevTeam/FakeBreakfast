@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NLNJp6ZWK3t1qFZeIT6iqde52HFGAT2hnka1CPnV1UVH4FsqC3XZNQ0RSlx+K5/QdbTZqURXjE63+toZ1OdwWw==",
+  "dgSpecHash": "nxIhoMT7jJ2AbUctZU31f22CypN5JTHsV2n/dTtETqPUCEhBkh2f/HeemJTiA5xBazlT/XB10F/Id/sbLsifGA==",
   "success": true,
-  "projectFilePath": "c:\\Data\\source\\vscode\\aspnetcore\\FakeBreakfast\\FakeBreakfast.Contracts\\FakeBreakfast.Contracts.csproj",
+  "projectFilePath": "C:\\Data\\source\\vscode\\aspnetcore\\FakeBreakfast\\FakeBreakfast.Contracts\\FakeBreakfast.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

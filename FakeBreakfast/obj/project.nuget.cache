@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "D8CCP8DAt1kPJztgRh5Kf7dC9Oe5xYQJso9SL0ot2UzQ6yZiMSm+iDAmPkmQ3M0n7Vuaza6kMS3UgnjwC/Rc7A==",
+  "dgSpecHash": "kN3lOn8wQ3IK3+HihTCoGKXGd5LeqoMZTATWaU6wYSDLlN1EhReqTicA9zoX4shXYoaAm/liOzzaRSOwmiDI7A==",
   "success": true,
-  "projectFilePath": "c:\\Data\\source\\vscode\\aspnetcore\\FakeBreakfast\\FakeBreakfast\\FakeBreakfast.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Data\\source\\vscode\\aspnetcore\\FakeBreakfast\\FakeBreakfast\\FakeBreakfast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emboss\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -27,3 +27,4 @@ C:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast\obj\Debug\net7.0\re
 C:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast\obj\Debug\net7.0\FakeBreakfast.pdb
 c:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast\obj\Debug\net7.0\FakeBreakfast.genruntimeconfig.cache
 c:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast\obj\Debug\net7.0\ref\FakeBreakfast.dll
+C:\Data\source\vscode\aspnetcore\FakeBreakfast\FakeBreakfast\bin\Debug\net7.0\ErrorOr.dll
